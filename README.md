@@ -1,9 +1,9 @@
----
+
 # 🧠 Notebook — PDF to Course Generator (Backend)
 
 > Transform structured PDFs into full-blown courses with modules, summaries, and key takeaways using AI models like GPT-4, Claude 3.7, and Gemini 2.5 Pro.
 
----
+
 
 ## 🌐 Live Links
 
