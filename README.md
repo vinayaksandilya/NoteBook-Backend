@@ -1,6 +1,4 @@
 ---
-
-
 # 🧠 Notebook — PDF to Course Generator (Backend)
 
 > Transform structured PDFs into full-blown courses with modules, summaries, and key takeaways using AI models like GPT-4, Claude 3.7, and Gemini 2.5 Pro.
@@ -39,7 +37,7 @@ Notebook lets users convert a single PDF into a full learning course by:
 - **AI Processing**: OpenRouter (Claude, GPT-4, Gemini support)  
 - **PDF Parsing**: Text and OCR engines (e.g., Mistral OCR)  
 - **Storage**: AWS S3-compatible bucket  
-- **Frontend**: React ([Repo](https://github.com/vinayaksandilya/NoteBook-Front-End))
+- **Frontend**: NextJS ([Repo](https://github.com/vinayaksandilya/NoteBook-Front-End))
 
 ---
 
